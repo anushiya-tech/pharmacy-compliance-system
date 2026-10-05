@@ -81,3 +81,10 @@ htmlcov/
 logs/
 *.tmp
 *.temp
+
+# --- Database & Uploads ---
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+
